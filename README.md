@@ -1,2 +1,2 @@
 # SpeechSeparation
-speech separation based on frequencey features and neural networks
+speech separation based on frequency features and neural networks
