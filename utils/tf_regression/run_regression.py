@@ -3,8 +3,6 @@
 @author : chenhangting 
 @data : 2018/12/11
 @note : Main script to train a tensorflow model for regression task
-        The code is writtern following GAN project under 
-        /nobackup/f1/asr/wulong/rsrgan/DNN-FM-DNN-AC-fintune-40-20-40/io_funcs
 '''
 
 from __future__ import absolute_import
